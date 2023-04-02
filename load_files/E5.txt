@@ -1,0 +1,25 @@
+#
+# Error Test 5 : Error with generator
+#
+ 
+#generateur
+2
+
+
+3 0 1 9 0
+
+
+2 0 0 0 -9
+FIN_LISTE
+ 
+#trou noir
+
+1
+2 -2
+FIN_LISTE
+
+
+#particule
+1
+6 0 0 1 8
+FIN_LISTE
