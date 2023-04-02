@@ -1,6 +1,6 @@
 /* Nom: error.c
  * Description: module qui gère les messages d'erreur. NE PAS MODIFIER.
- * Date: 04.02.2014
+ * Date: 04.02.2019
  * version : 1.1
  * auteur : PROG II
  */

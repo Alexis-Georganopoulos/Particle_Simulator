@@ -4,11 +4,10 @@
  * 	Exports functions used to calculate norm of a vector and distance between 2
  * 	vectors.
  * 
- * Date: 16.04.2015
+ * Date: 16.04.2019
  * Version: 2.03
  * 
  * Authors - SCIPER:
- * 	Nawel Naas - 245996
  * 	Alexis Philip George-Georganopoulos - 228168
  */
  

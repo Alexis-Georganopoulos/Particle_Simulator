@@ -1,6 +1,6 @@
 /* Nom: constantes.h 
  * Description: constantes utilisées par le programme
- * Date: 03.02.2014
+ * Date: 03.02.2019
  * version : 1.0
  * Auteur: PROG II
  */

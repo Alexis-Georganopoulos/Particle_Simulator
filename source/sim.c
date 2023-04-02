@@ -6,11 +6,10 @@
  *  type of execution mode(Simulation, Graphic, etc...).
  * 	When an error is detected, the execution of the program stops. 
  * 
- * Date: 14.05.2015
+ * Date: 14.05.2019
  * Version: 3.04
  * 
  * Authors - SCIPER:
- * 	Nawel Naas - 245996
  * 	Alexis Philip George-Georganopoulos - 228168
  */
  

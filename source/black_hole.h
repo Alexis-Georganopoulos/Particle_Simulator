@@ -4,11 +4,10 @@
  * 	Responsible for exporting the functions required by sim.c in order to begin 
  *  interpreting black hole data. 
  *
- * Date: 11.05.2015
+ * Date: 11.05.2019
  * Version: 3.01
  * 
  * Authors - SCIPER:
- * 	Nawel Naas - 245996
  * 	Alexis Philip George-Georganopoulos - 228168
  */
 

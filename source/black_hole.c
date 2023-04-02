@@ -5,11 +5,10 @@
  * 	Upon detection of an error in the black hole data, an error message is 
  * 	shown, followed by the termination of the program. 
  *
- * Date: 11.05.2015
+ * Date: 11.05.2019
  * Version: 3.04
  * 
  * Authors - SCIPER:
- * 	Nawel Naas - 245996
  * 	Alexis Philip George-Georganopoulos - 228168
  */
 

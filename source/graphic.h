@@ -3,11 +3,10 @@
  * Description: 
  * 	Transfers graphic.c functions to other modules
  * 
- * Date: 16.04.2015
+ * Date: 16.04.2019
  * Version: 4.20
  * 
  * Authors - SCIPER:
- * 	Nawel Naas - 245996
  * 	Alexis Philip George-Georganopoulos - 228168
  */
 

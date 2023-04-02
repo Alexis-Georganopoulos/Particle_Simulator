@@ -4,11 +4,10 @@
  * 	Responsible for exporting the functions required by main.cpp in order to 
  *  begin interpreting input data.
  * 
- * Date: 29.03.2015
+ * Date: 29.03.2019
  * Version: 3.04
  * 
  * Authors - SCIPER:
- * 	Nawel Naas - 245996
  * 	Alexis Philip George-Georganopoulos - 228168
  */
  

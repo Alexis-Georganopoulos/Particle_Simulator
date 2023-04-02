@@ -6,11 +6,10 @@
  * 	onto window. These functions are called for by the particle, black_hole and 
  * 	generator modules.
  * 
- * Date: 16.04.2015
+ * Date: 16.04.2019
  * Version: 2.03
  * 
  * Authors - SCIPER:
- * 	Nawel Naas - 245996
  * 	Alexis Philip George-Georganopoulos - 228168
  */
 

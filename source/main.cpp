@@ -6,11 +6,10 @@
  * 	Error mode tests the validity of input data.
  * 	Force mode prints the mutual force between two particles.
  * 
- * Date: 14.05.2015
+ * Date: 14.05.2019
  * Version: 3.05
  * 
  * Authors - SCIPER:
- * 	Nawel Naas - 245996
  * 	Alexis Philip George-Georganopoulos - 228168
  */
 
