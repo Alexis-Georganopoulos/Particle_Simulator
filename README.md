@@ -21,7 +21,7 @@ The main files used to generate the systems are:
 **NOTE:** _This work was partially written in french. Some words in the code/UI use both languages. It should still be straightforward._
 
 The overall architecture/dependancy graph of the modules is as follows:
-  ![architecture](/images/architecture.JPG)
+  ![architecture](/images/architecture.jpg)
 
 # Running the code
 
