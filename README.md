@@ -16,7 +16,11 @@ The main files used to generate the systems are:
 - generator.c: <br>
   Enim magna velit elit nostrud do veniam consectetur dolore. Duis velit sit officia ad culpa nostrud laboris nulla in. Ullamco ea culpa consectetur sint. Ullamco ullamco tempor magna fugiat pariatur aliqua cillum dolor non. Aute voluptate pariatur anim ipsum qui reprehenderit esse consectetur aliquip duis. Ipsum labore consequat et cillum quis non veniam commodo do.
 
-  The overall architecture/dependancy graph of the modules is as follows:
+<br>
+
+**NOTE:** This work was partially written in french. Some words in the code/UI use both languages. It should still be straightforward. 
+
+The overall architecture/dependancy graph of the modules is as follows:
   ![architecture](/images/architecture.JPG)
 
 # Running the code
