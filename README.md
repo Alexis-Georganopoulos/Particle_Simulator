@@ -37,5 +37,5 @@ The overall architecture/dependancy graph of the modules is as follows:
 # Other interesting leftovers
 
 ## Debug modes
-
+![debug](/images/debug_modes.JPG)
 ## Error check files
