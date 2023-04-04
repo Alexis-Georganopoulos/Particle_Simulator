@@ -2,7 +2,9 @@
 This program recreates interactions between simple particles(red) and black holes(green). They interact via gravitational attraction, and change their trajectories accordingly. <br>
 The small, blue arrows(generators) randomly generate particles with an initial velocity and radius. <br>
 As time progresses, the various gravitational interactions change the velocity of the particles, causing them to speed up(bright red) or slow down(dark red). <br>
-Once a particle touches the center of a black hole, it gets deleted from the simulation.
+Once a particle touches the center of a black hole, it gets deleted from the simulation.<br>
+[Run the code!](#running-the-code)
+
 ![overview](/images/overview.gif)
 <br>
 The main files used to generate the systems are:
