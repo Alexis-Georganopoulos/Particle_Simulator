@@ -128,8 +128,13 @@ If any mistakes are made when you write your own `load file`, the error messages
 During development, several modes where developed to debug the project at various steps. These are `Error`, `Force`, `Graphic`, `Integration`, and `Simulation`. These are exemplified in the following image:
 
 ![debug](/images/debug_modes.JPG)
-## Error check files
 
+- `Force` and `Integration` are purely numeric, and make sure the important mathematical methods are working properly. They usually read the first particle in a `load file`.
+- `Graphic` checks if the UI work at all, and should load up a frozen `load file`
+- `Simulation` just preloads the program with a `load file`. Useful for running simulations in parallel, or avoiding the tedium of launching the program and typing the `load file` every single time.
+- `Error` just checks if the given `load file` is valid. If not, it specifies the problem.
+## Error check files
+Within the [/load_files](/load_files/) folder, some `load files` are prefixed with an 'E'. These served as references to make sure the program was correctly rejecting bad `load files`(unit-testing purposes). Most are lost, the few that remain are all that's left.
 
 
 
