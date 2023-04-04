@@ -125,7 +125,7 @@ If any mistakes are made when you write your own `load file`, the error messages
 # Other interesting leftovers
 
 ## Debug modes
-During development, several modes where developed to debug the project at various steps. These are `Error`, `Force`, `Graphic`, `Integration`, and `Simulation`. These are exemplified in the following image:
+During development, several modes where included to debug the project at various steps. These are `Error`, `Force`, `Graphic`, `Integration`, and `Simulation`. These are exemplified in the following image:
 
 ![debug](/images/debug_modes.JPG)
 
