@@ -58,7 +58,7 @@ Once in your download folder, open a terminal and run the commands:
 $ sudo dpkg -i libglui-dev_2.36-4_amd64.deb
 $ sudo dpkg -i libglui2c2_2.36-4_amd64.deb
 ```
-With different endings depending on your download & system architecture(`amd64`/`armel`/`i386`/etc...)
+With different endings depending on your download & system architecture(`amd64`/`armel`/`i386`/etc...). These contain the obsolete packages of `glui`, and create the UI elements that we see and interact with.
 <br><br>
 When finished, your system has all the necessary packages. If your system still complains when you run the program, try installing the missing packages with `apt` or look in other debian package archives.
 
